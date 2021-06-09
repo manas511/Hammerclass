@@ -11,7 +11,7 @@ class Rubber{
 		this.y=y;
 		this.r=r
 		this.body=Bodies.circle(this.x, this.y, (this.r-20)/2, options)
-		World.add(world, this.body);
+	Composite.add(world, this.body);
 
 	}
 	display()
