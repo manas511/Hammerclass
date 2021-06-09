@@ -1,6 +1,7 @@
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
+const Composite = Matter.Composite in sketch.js
 
 var engine, world;
 var hammer , plane , stone , iron;
