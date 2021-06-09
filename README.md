@@ -1,1 +1,2 @@
-# Hammerclass
+# Geologist
+Geologist Project
